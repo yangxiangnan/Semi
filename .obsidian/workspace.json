@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "ea5cbbeedfe1ecaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd1665cee2a41a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f3af0de6a211bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/2、操作命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faf82df5c37fe201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/1、操作系统.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7efbd5a90747f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "edb42f6d5a9fa41b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d45a52a89ea38a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73bebea205f16acb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6684c065a0cc81d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdba653c20e96e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b20f18d050ef267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e193c832390303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/2、操作命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f81ae889253d0bf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/2、操作命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5ab53458329fd1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3aecb75561f90ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/2、操作命令.md"
+              }
+            }
+          },
+          {
+            "id": "7cd78487d8e66705",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "7f3af0de6a211bdf",
+  "lastOpenFiles": [
+    "Linux/3、vim.md",
+    "Python",
+    "未命名.md",
+    "Linux/1、操作系统.md",
+    "Linux/2、操作命令.md",
+    "markdown.md",
+    "2.md",
+    "Linux",
+    "WechatIMG32.jpg",
+    "23.md",
+    "2024-04-01.md",
+    "未命名.canvas",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
