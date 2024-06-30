@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/2、操作命令.md",
+                "file": "Linux/1、操作系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/1、操作系统.md",
+                "file": "Python/1、注释和编码.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "154c4d31e9f306e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/2、变量和字符串.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02cba378cc313c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/1、注释和编码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b885279e82aba33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/2、变量和字符串.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "611b8fc3bc4294af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "领域知识/1、图片.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "143cd626d91c8bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iOS/Foundation/GCD/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb0b3286a41383f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/0、简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/2、操作命令.md",
+                "file": "Python/2、变量和字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/2、操作命令.md",
+                "file": "Python/2、变量和字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +210,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/2、操作命令.md"
+                "file": "Python/2、变量和字符串.md"
               }
             }
           },
           {
-            "id": "7cd78487d8e66705",
+            "id": "88f8a70e3c835a1a",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -150,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,13 +241,24 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7f3af0de6a211bdf",
+  "active": "15d45a52a89ea38a",
   "lastOpenFiles": [
+    "Python/0、简介.md",
+    "Linux/1、操作系统.md",
+    "Python/2、变量和字符串.md",
+    "Python/1、注释和编码.md",
+    "iOS/Foundation/1、基础.md",
+    "iOS/Foundation/GCD/未命名.md",
+    "领域知识/1、图片.md",
+    "iOS/Foundation/GCD",
+    "iOS/Foundation",
+    "iOS/Cocoa",
+    "领域知识",
+    "Python/3、数据类型.md",
+    "Linux/2、操作命令.md",
+    "iOS",
     "Linux/3、vim.md",
     "Python",
-    "未命名.md",
-    "Linux/1、操作系统.md",
-    "Linux/2、操作命令.md",
     "markdown.md",
     "2.md",
     "Linux",
